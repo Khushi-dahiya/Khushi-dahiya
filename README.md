@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khushi-dahiya
+- 👋 Hi, I’m Khushi-dahiya
 - 👀 I’m interested in Data Analysis and machine learning models
 - 🌱 I’m currently learning statistics, deep learning, NLP
 
