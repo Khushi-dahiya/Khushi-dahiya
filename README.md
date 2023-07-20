@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Khushi-dahiya
-- 👀 I’m interested in android app develpment
-- 🌱 I’m currently learning HTML,CSS & JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Analysis and machine learning models
+- 🌱 I’m currently learning statistics, deep learning, NLP
 
 <!---
 Khushi-dahiya/Khushi-dahiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
